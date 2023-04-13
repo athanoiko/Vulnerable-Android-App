@@ -8,4 +8,4 @@ code containing stack and buffer overflows and two different types of functions.
 function are used only by other native components of the library and the others only
 for being called by the Java code through JNI.
 
-![alt text](assets/screenshot.png?raw=true | width=100)
+![alt text](assets/screenshot.png?raw=true width="100")
