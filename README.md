@@ -1,6 +1,6 @@
 # Vulnerable Android App
 
-This Android Application was developed in order to effectively check our Android-fuzzer.
+This Android Application was developed in order to effectively check our [Android-fuzzer](https://github.com/AthanasiosOikonomou/Android-fuzzer).
 This application as shown in next image includes two main buttons, one that calls a JNI implemented
 function in order to update a label and one that calls Java code to update the same
 label with different text. Also, in the native library we inserted a lot of vulnerable
