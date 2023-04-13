@@ -1,4 +1,4 @@
-# Vulnerable Android App
+# Vulnerable Android Application
 
 This Android Application was developed in order to effectively check our [Android-fuzzer](https://github.com/AthanasiosOikonomou/Android-fuzzer).
 This application as shown in next image includes two main buttons, one that calls a JNI implemented
